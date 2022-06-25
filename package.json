@@ -1,6 +1,6 @@
 {
-  "name": "@edsolater/xstore",
-  "version": "0.0.2",
+  "name": "@edsolater/sorter",
+  "version": "0.1.0",
   "description": "simple react management, simulate core philosophy of zustand",
   "main": "./dist/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edsolater/xstore.git"
+    "url": "git+https://github.com/edsolater/sorter.git"
   },
   "files": [
     "dist"
@@ -18,9 +18,9 @@
   "author": "edsolater <edsolater@qq.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/edsolater/xstore/issues"
+    "url": "https://github.com/edsolater/sorter/issues"
   },
-  "homepage": "https://github.com/edsolater/xstore#readme",
+  "homepage": "https://github.com/edsolater/sorter#readme",
   "devDependencies": {
     "@types/node": "^18.0.0",
     "@types/react": "^18.0.14",
