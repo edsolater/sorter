@@ -1,5 +1,1 @@
-# collection
-
-`xxxEntry()` and `xxxKey()` is for object \
-`xxx()` is for arr and object(value, key)
-
+provide utils for list action (sort and search and filter and etc.)
